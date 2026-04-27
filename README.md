@@ -15,7 +15,7 @@ Portfólio de projetos desenvolvidos ao longo da minha formação em Análise e 
 
 ---
 
-### // sobre
+###  sobre
 
 Cursando o 2º semestre de ADS na UNICID. Militar da Força Aérea Brasileira com background em TI e Administração. Construindo experiência prática em desenvolvimento web, automação e segurança da informação.
 
@@ -25,7 +25,7 @@ Cursando o 2º semestre de ADS na UNICID. Militar da Força Aérea Brasileira co
 
 ---
 
-### // stack
+###  stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=css3&logoColor=white)
@@ -37,7 +37,7 @@ Cursando o 2º semestre de ADS na UNICID. Militar da Força Aérea Brasileira co
 
 ---
 
-### // estrutura do repositório
+###  estrutura do repositório
 
 ```
 root/
