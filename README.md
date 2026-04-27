@@ -41,6 +41,10 @@ Cursando o 2º semestre de Análise e Desenvolvimento de Sistemas na UNICID. Mil
 
 ### 🏗 Estrutura do Repositório
 
+- `root/` — Apresentação principal do portfólio.
+- Cada pasta de projeto contém código-fonte, documentação e README próprio.
+
+```
 ├── README.md (Principal)
 ├── .github/ (Opcional: para imagens e assets)
 ├── modelagem-banco-dados-01/
@@ -51,3 +55,4 @@ Cursando o 2º semestre de Análise e Desenvolvimento de Sistemas na UNICID. Mil
     ├── notebook_analise.ipynb
     ├── dataset.csv
     └── README.md (Específico do projeto)
+```
