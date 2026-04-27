@@ -1,48 +1,45 @@
 # PORTIFOLIO_VICTOR-ALVIM
 Portfólio de projetos desenvolvidos ao longo da minha formação em Análise e Desenvolvimento de Sistemas, com passagem pela FAB e foco em crescimento contínuo na área de tecnologia.
 
-<div align="center">
-
 # Victor Hugo Sittino Alvim
-### Análise e Desenvolvimento de Sistemas · UNICID · 2º sem.
-
-`FAB` `Cybersecurity` `Web Dev`
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-alvim-43877425b/)
-[![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:victor.alvim05@gmail.com)
-
-</div>
+> Estudante de Análise e Desenvolvimento de Sistemas | Militar da FAB | Foco em Cibersegurança
 
 ---
 
-###  sobre
-
-Cursando o 2º semestre de ADS na UNICID. Militar da Força Aérea Brasileira com background em TI e Administração. Construindo experiência prática em desenvolvimento web, automação e segurança da informação.
-
-| Técnico | Em desenvolvimento | Soft skills |
-|---|---|---|
-| HTML · CSS · JS · Python · SQL · Firebase | Cibersegurança · UX/UI · IA aplicada | Disciplina · comunicação · responsabilidade |
+### 📫 Contato & Redes Sociais
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-alvim-43877425b/)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.alvim05@gmail.com)
 
 ---
 
-###  stack
+### 👨‍💻 Sobre
+Cursando o 2º semestre de Análise e Desenvolvimento de Sistemas na UNICID. Militar da Força Aérea Brasileira, com background em TI e Administração. Construindo experiência prática em desenvolvimento web, automação e segurança da informação.
 
-![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3670a0?style=flat-square&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-4479a1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
+* **Habilidades Técnicas:** HTML, CSS, JavaScript, Python, SQL, Firebase.
+* **Habilidades Socioemocionais:** Disciplina, comunicação assertiva, trabalho em ambientes de alta responsabilidade.
+* **Em desenvolvimento:** Cibersegurança, UX/UI Design, Inteligência Artificial aplicada.
 
 ---
 
-###  estrutura do repositório
+### 🛠 Ferramentas & Tecnologias
 
-```
-root/
-├── README.md
-├── /web-projects
-├── /python-scripts
-└── /studies
-```
+#### 💻 Linguagens
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+#### 🗄️ Banco de Dados & Backend
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+#### 🔐 Cibersegurança & IA
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Coursera](https://img.shields.io/badge/Google_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+---
+
+### 🏗 Estrutura do Repositório
+
+- `root/` — Apresentação principal do portfólio.
+- Cada pasta de projeto contém código-fonte, documentação e README próprio.
