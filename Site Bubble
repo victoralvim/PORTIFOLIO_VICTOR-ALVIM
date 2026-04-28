@@ -1,1 +1,0 @@
-https://victrosittino-35167.bubbleapps.io/version-test?debug_mode=true
