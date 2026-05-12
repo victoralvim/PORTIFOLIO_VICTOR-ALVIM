@@ -33,7 +33,7 @@ Implementação estratégica para garantir escalabilidade e robustez:
 
 A identidade visual foi reformulada para estabelecer uma marca única e moderna:
 
-- **Novo Nome Comercial:** [Inserir Nome Criativo]
+- **Novo Nome Comercial:** Pixen
 - **Estética Visual:** Aplicação de estilos modernos (ex: Neumorfismo, Glassmorfismo ou Dark Mode Minimalista).
 - **Componentes Visuais:** Utilização de ferramentas como `Neumorphism.io` ou `Blobmaker` para elementos exclusivos.
 
