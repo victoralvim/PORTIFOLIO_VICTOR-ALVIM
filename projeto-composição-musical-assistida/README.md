@@ -1,8 +1,12 @@
 # 🎵 Projeto Música & IA: Composição Generativa com Gemini e Suno
  
-[![Languages](https://img.shields.io/github/languages/count/SEU_USUARIO_GITHUB/NOME_DO_REPOSITORIO?style=for-the-badge&color=grey)](https://github.com/SEU_USUARIO_GITHUB/NOME_DO_REPOSITORIO)
-[![Repo Size](https://img.shields.io/github/repo-size/SEU_USUARIO_GITHUB/NOME_DO_REPOSITORIO?style=for-the-badge&color=grey)](https://github.com/SEU_USUARIO_GITHUB/NOME_DO_REPOSITORIO)
-[![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)](https://github.com/SEU_USUARIO_GITHUB/NOME_DO_REPOSITORIO)
+<div align="center">
+
+![Languages](https://img.shields.io/github/languages/count/victoralvim/projeto-composição-musical-assistida?style=for-the-badge&color=4eb332)
+![Repo Size](https://img.shields.io/github/repo-size/victoralvim/projeto-composição-musical-assistida?style=for-the-badge&color=blue)
+![Status](https://img.shields.io/badge/STATUS-CONCLUÍDO-brightgreen?style=for-the-badge)
+
+</div>
  
 ## 📝 Descrição do Projeto
 Este projeto explora a intersecção entre criatividade humana e Inteligência Artificial. Utilizando técnicas de **RAG (Retrieval-Augmented Generation)** através do Gemini Gems, foi criado um assistente especializado na análise lírica de OFICINA G3. O objetivo final foi a produção de um EP com 5 faixas inéditas, cujas letras foram geradas pela IA e a produção musical realizada via Suno AI.
