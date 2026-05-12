@@ -9,8 +9,8 @@ Este projeto transcende a simples geração automática de conteúdo, focando na
 
 Abaixo, a **Figura 1** ilustra o fluxo de trabalho arquitetado para garantir que a saída da IA mantivesse a complexidade técnica do rock progressivo, integrando a base de conhecimento personalizada ao processo de geração[cite: 2].
 
-![Fluxo de Trabalho de IA Musical](<img width="1908" height="822" alt="fluxo de trabalho" src="https://github.com/user-attachments/assets/4b8f7441-9fb1-4825-87c6-617c7a2c7347" />)
-*Figura 1: Arquitetura de pipeline integrando RAG (Retrieval-Augmented Generation) e Síntese de Áudio Multimodal[cite: 2].*
+![Fluxo de Trabalho de IA Musical]<img width="1908" height="822" alt="fluxo de trabalho" src="https://github.com/user-attachments/assets/658cf3f8-417d-4a38-b7b9-1f40b33923a5" />
+Figura 1: Arquitetura de pipeline integrando RAG (Retrieval-Augmented Generation) e Síntese de Áudio Multimodal[cite: 2].*
 
 ## 🧠 Justificativa Técnica dos Algoritmos e Processos
 A escolha das ferramentas baseou-se em critérios de **capacidade multimodal** e **fidelidade estrutural** (Nível 3 de Maturidade)[cite: 2]:
