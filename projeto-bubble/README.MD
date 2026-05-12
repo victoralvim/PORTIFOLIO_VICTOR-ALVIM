@@ -35,8 +35,4 @@ Desenvolver uma aplicação web de gestão utilizando a Inteligência Artificial
 - **Organização Visual:** Ações na aba de Workflows foram categorizadas por cores (ex: Verde para Sucesso/Navegação, Vermelho para Exclusão de Dados).
 - **Documentação In-Platform:** Utilização rigorosa do recurso *Notes* para documentar o objetivo de cada fluxo de trabalho complexo, eliminando o efeito "caixa preta" e facilitando a transição do projeto para outros engenheiros.
 
-### 7. Gestão de Limitações e Estratégia de Saída (Vendor Lock-in)
-Devido à natureza *lock-in* do Bubble (retenção do código-fonte), a seguinte estratégia de saída foi definida:
-> Em caso de necessidade de migração para um ecossistema tradicional (como React e Node.js/Python), a extração dos dados será feita através da habilitação da **Data API nativa do Bubble**. Os dados de usuários e tabelas relacionais (como Orçamentos e Clientes) serão exportados via requisições REST/JSON, garantindo a integridade e portabilidade das informações da base de dados para o novo banco (SQL ou NoSQL).
-
 ---
