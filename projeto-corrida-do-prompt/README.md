@@ -1,4 +1,4 @@
-# 🤖 Engenharia de Instrução: O Poder do Prompt
+# 🤖 A Corrida do Prompt
 
 Este repositório documenta o desenvolvimento de dois laboratórios práticos focados em **Prompt Engineering**. [cite_start]O objetivo central foi dominar a comunicação com Modelos de Linguagem de Grande Escala (LLMs), como o **Qwen**, para atingir resultados de alta fidelidade em texto e imagem com um limite estrito de apenas **5 iterações**[cite: 68, 95].
 
