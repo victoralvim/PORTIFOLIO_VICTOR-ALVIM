@@ -1,4 +1,4 @@
-# 🤖 Relatório de Estudo: A Corrida do Prompt
+# 🤖 A Corrida do Prompt
 
 Esta nota de estudo documenta a aplicação prática de técnicas avançadas de **Prompt Engineering** em dois laboratórios distintos. O foco central reside na otimização da comunicação com Modelos de Linguagem de Grande Escala (LLMs), especificamente o **Qwen**, visando a máxima eficácia num ciclo restrito de **5 iterações**.
 
